@@ -39,8 +39,6 @@ large-scale demographic data, and AI- and Big Data-based analytical tools for ag
 
 ## Selected publications
 
-- **[Benchmarking Distributional Vector Similarity Measures: A
-  Survey](https://doi.org/10.1111/exsy.70354)**. *Expert Systems*, 2026.
 - **[Categorical Variable Encoding Methods for Tabular Data: A Benchmarking
   Study](https://doi.org/10.1007/s41060-025-00886-w)**. *International Journal of Data Science and
   Analytics*, 2026.
