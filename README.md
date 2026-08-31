@@ -67,5 +67,4 @@ Selected open teaching resources:
 ## Contact
 
 For research collaborations or thesis supervision, contact me at
-**[navid.nobani@unimib.it](mailto:navid.nobani@unimib.it)** or
 **[schedule a meeting](https://calendly.com/nobani/30min)**.
